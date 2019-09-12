@@ -1,0 +1,44 @@
+﻿  campus.cpp
+  source.cpp
+  texture.cpp
+  코드를 생성하고 있습니다...
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/FORCE' 사양으로 인해 무시됩니다.
+keyboardfunction.obj : warning LNK4006: "float angle" (?angle@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+keyboardfunction.obj : warning LNK4006: "float deltaAngle" (?deltaAngle@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+keyboardfunction.obj : warning LNK4006: "float ratio" (?ratio@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+keyboardfunction.obj : warning LNK4006: "float x" (?x@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+keyboardfunction.obj : warning LNK4006: "float y" (?y@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+keyboardfunction.obj : warning LNK4006: "float z" (?z@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+keyboardfunction.obj : warning LNK4006: "float lx" (?lx@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+keyboardfunction.obj : warning LNK4006: "float ly" (?ly@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+keyboardfunction.obj : warning LNK4006: "float lz" (?lz@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+keyboardfunction.obj : warning LNK4006: "int snowman_display_list" (?snowman_display_list@@3HA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+keyboardfunction.obj : warning LNK4006: "int deltaMove" (?deltaMove@@3HA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float C1z" (?C1z@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float C1x" (?C1x@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float C2z" (?C2z@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float C2x" (?C2x@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float C3z" (?C3z@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float C3x" (?C3x@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float C4z" (?C4z@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float C4x" (?C4x@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float C5z" (?C5z@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float C5x" (?C5x@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float Streetr" (?Streetr@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float Streetz" (?Streetz@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float Streetx" (?Streetx@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "int proj" (?proj@@3HA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "int new_mouse" (?new_mouse@@3HA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "int mouse_rot" (?mouse_rot@@3HA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "int mouse_trn" (?mouse_trn@@3HA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float turn" (?turn@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float tipp" (?tipp@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float twst" (?twst@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float x_click" (?x_click@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float y_click" (?y_click@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float xtm" (?xtm@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float ytm" (?ytm@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float scl" (?scl@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Model.obj : warning LNK4006: "float xcr" (?xcr@@3MA)이(가) source.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+C:\Users\gnits\Desktop\소프트웨어\3학년 2학기\그래픽스\TeamProject\Debug\TeamProject.exe : warning LNK4088: /FORCE 옵션을 사용하여 생성하는 이미지입니다. 이미지가 실행되지 않을 수도 있습니다.
+  TeamProject.vcxproj -> C:\Users\gnits\Desktop\소프트웨어\3학년 2학기\그래픽스\TeamProject\Debug\TeamProject.exe
